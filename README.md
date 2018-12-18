@@ -1,4 +1,4 @@
-------------------------------"QUANTUM WALKER"-------------------------------------
+------------------------------"QUANTUM WALKER"------------------------------------
 Program for classical and quantum walks on cliques, cyclic and lollipop-type graphs.
 All walks start in the vertex 0.
 Author: Oskar S?owik
