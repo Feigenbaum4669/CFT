@@ -11,6 +11,7 @@ Requirements:
 Installation
 Program does not require installation.
 
-Uruchomienie:
-Nale?y wywo?a? w terminalu program "startWalk.py". Przyk?adowe wywo?anie:
+Execution:
+Run program "startWalk.py". Example:
 C:\Walker>python startWalk.py
+
